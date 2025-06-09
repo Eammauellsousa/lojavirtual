@@ -1,3 +1,3 @@
 # lojavirtual
 
-Texto alterado no repositório atual.(2)
+Texto alterado no repositório atual.(Emmanuel)
