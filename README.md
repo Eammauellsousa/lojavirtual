@@ -2,4 +2,4 @@
 
 Texto alterado no repositório atual.(Emmanuel)
 
-Texto alterado via gethub web.
+Texto alterado via gethub web.(2)
